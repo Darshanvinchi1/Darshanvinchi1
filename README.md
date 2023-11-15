@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://protfolio-new-darshanvinchi1.vercel.app/](https://protfolio-new-darshanvinchi1.vercel.app/)
 
-- 💬 Ask me about **react, nodejs, go, spring boot,**
+- 💬 Ask me about **react, node js, go, spring boot,**
 
 - 📫 How to reach me **darshanvinchi123@gmail.com**
 
-- 📄 Know about my experiences [https://protfolio-new-darshanvinchi1.vercel.app/](https://protfolio-new-darshanvinchi1.vercel.app/)
+- 📄 Know about my experiences [https://darshanvinchi.vercel.app/](https://darshanvinchi.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny**
 
