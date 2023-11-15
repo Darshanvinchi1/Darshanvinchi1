@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Rust**
 
-- 👨‍💻 All of my projects are available at [https://protfolio-new-darshanvinchi1.vercel.app/](https://protfolio-new-darshanvinchi1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://darshanvinchi.vercel.app/](https://darshanvinchi.vercel.app/)
 
 - 💬 Ask me about **react, node js, go, spring boot,**
 
