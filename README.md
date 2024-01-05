@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Protfolio<br><br>🌱 I’m currently learning gsap with Nextjs, Rust<br><br>👨‍💻 All of my projects are available at https://darshanvinchi.vercel.app/<br><br>💬 Ask me about react, node js, go, spring boot,<br><br>📫 How to reach me darshanvinchi123@gmail.com<br><br>📄 Know about my experiences https://darshanvinchi.vercel.app/<br><br>⚡ Fun fact I think I am funny
+🔭 I’m currently working on Protfolio<br><br>🌱 I’m currently learning sveltekit, Rust<br><br>👨‍💻 All of my projects are available at https://darshanvinchi.vercel.app/<br><br>💬 Ask me about react, node js, go, spring boot,<br><br>📫 How to reach me darshanvinchi123@gmail.com<br><br>📄 Know about my experiences https://darshanvinchi.vercel.app/<br><br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
